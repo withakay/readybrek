@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.0.0
+MinimumVisualStudioVersion = 10.0.0.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Readybrek", "Readybrek/Readybrek.csproj", "{A6E7F036-5117-497B-8FEB-BD35E412B0FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rbcli", "rbcli\rbcli.csproj", "{21CB2B9D-67D2-49FB-A777-B7D31F001B83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Readybrek.Tests", "Readybrek.Tests\Readybrek.Tests.csproj", "{F625A5DB-9E2C-4852-A78B-71C492E48A5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6E7F036-5117-497B-8FEB-BD35E412B0FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6E7F036-5117-497B-8FEB-BD35E412B0FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6E7F036-5117-497B-8FEB-BD35E412B0FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6E7F036-5117-497B-8FEB-BD35E412B0FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21CB2B9D-67D2-49FB-A777-B7D31F001B83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21CB2B9D-67D2-49FB-A777-B7D31F001B83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21CB2B9D-67D2-49FB-A777-B7D31F001B83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21CB2B9D-67D2-49FB-A777-B7D31F001B83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F625A5DB-9E2C-4852-A78B-71C492E48A5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F625A5DB-9E2C-4852-A78B-71C492E48A5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F625A5DB-9E2C-4852-A78B-71C492E48A5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F625A5DB-9E2C-4852-A78B-71C492E48A5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
